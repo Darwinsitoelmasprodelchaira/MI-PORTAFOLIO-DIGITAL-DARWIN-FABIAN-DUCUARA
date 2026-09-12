@@ -9,7 +9,6 @@
   a { color: #2E7D32; font-weight: bold; }
 </style>
 
-
 # 🟩 DARWIN FABIÁN DUCUARA DÍAZ
 ### Cartagena del Chairá, Caquetá | Grado 11-1
 
